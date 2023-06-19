@@ -1,0 +1,98 @@
+commit e03a33a6977b43c5c1ab7582d4c37e85b0be2e61
+Author: Humberto Morales <humberto.moralesb@gmail.com>
+Date:   Mon Jun 19 15:13:02 2023 -0600
+
+    Agregando 2 párrafos
+
+commit efb880ac231b8205417f64bf84be06c8b9538295
+Merge: 60cf390 ee55518
+Author: Humberto Morales <humberto.moralesb@gmail.com>
+Date:   Mon Jun 19 15:10:29 2023 -0600
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 60cf390c7a260b10506116e217c0cfc44cb872b7
+Author: Humberto Morales <humberto.moralesb@gmail.com>
+Date:   Mon Jun 19 14:42:04 2023 -0600
+
+    Agregando estaciones del año con fecha de inicio
+
+commit ee55518dbec1258c6b47ac2f477d37dfa7b3d4a9
+Author: Humberto Morales <humberto.moralesb@gmail.com>
+Date:   Mon Jun 19 14:42:04 2023 -0600
+
+    Agregando las estaciones del año
+
+commit 723d8c1283709328855ba44ef551b11efb7d070b
+Merge: 6e2ab31 3125b23
+Author: Humberto Morales <humberto.moralesb@gmail.com>
+Date:   Mon Jun 19 14:32:41 2023 -0600
+
+    Resoliendo conflicto merge main/html en el documento index.html
+
+commit 3125b2312458ecd10f57cf75efa87ca6ffd8a860
+Author: Humberto Morales <humberto.moralesb@gmail.com>
+Date:   Mon Jun 19 14:17:10 2023 -0600
+
+    Agregando index.js al index.html
+
+commit 6e2ab31c7e3693a56a987966750e17f0a0332de2
+Author: Humberto Morales <humberto.moralesb@gmail.com>
+Date:   Mon Jun 19 14:12:47 2023 -0600
+
+    Agregando style.css al index.html
+
+commit b09fc62906ef6d4020c06001f3e7462085af6ff6
+Merge: 5777d8d 280cb0c
+Author: Humberto Morales <humberto.moralesb@gmail.com>
+Date:   Mon Jun 19 13:56:35 2023 -0600
+
+    Merge branch 'js'
+
+commit 280cb0cac1f4589fd3330f9c42ea58ff2427e411
+Author: Humberto Morales <humberto.moralesb@gmail.com>
+Date:   Mon Jun 19 13:44:48 2023 -0600
+
+    Creando index.js
+
+commit 5777d8d89bcf4ed5c249203fdffb30d69c1f6cfa
+Author: Humberto Morales <humberto.moralesb@gmail.com>
+Date:   Mon Jun 19 13:33:14 2023 -0600
+
+    Creando style.css
+
+commit cd6f08d7024b775dccf3ad079b2812d9537e25bc
+Author: Humberto Morales <humberto.moralesb@gmail.com>
+Date:   Mon Jun 19 13:28:00 2023 -0600
+
+    Creando index.html
+
+commit 6d513a1d9563b3840f3888a31ffdaa6da8acc81e
+Author: Humberto Morales <humberto.moralesb@gmail.com>
+Date:   Mon Jun 19 12:55:37 2023 -0600
+
+    Ignorando archivos .exe
+
+commit 833d54880730784fe9a6353f948b69202d0bcd59
+Author: HMBasabes <136758206+HMBasabes@users.noreply.github.com>
+Date:   Mon Jun 19 13:18:16 2023 -0600
+
+    Creando LICENCIA del repositorio
+
+commit c2e9c261cb8e35d4641d579b1613e9f6b13c07cd
+Author: Humberto Morales <humberto.moralesb@gmail.com>
+Date:   Fri Jun 16 17:43:17 2023 -0600
+
+    Agregando más contenido al  README
+
+commit 7f4812a105c6387ca793fb0db75489dc9dc240ae
+Author: Humberto Morales <humberto.moralesb@gmail.com>
+Date:   Fri Jun 16 17:32:16 2023 -0600
+
+    Agregando contenido inicial al README
+
+commit 0cd5014687117fdaa203ed10b4bf6f06161f2686
+Author: Humberto Morales <humberto.moralesb@gmail.com>
+Date:   Fri Jun 16 17:26:54 2023 -0600
+
+    Primer commit :)
